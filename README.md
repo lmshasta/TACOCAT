@@ -72,7 +72,7 @@ Sourcecode and manual can be found at https://www.ebi.ac.uk/~zerbino/oases/.
 
 **EvidentialGene**
 
-Sourcecode can be found at https://sourceforge.net/projects/evidentialgene/. Additional documentation about the program can be found at https://arthropods.eugenes.org/EvidentialGene/. TACOCAT uses `trformat.pl` (~/scripts/rnaseq/) and `tr2aacds.pl` (~/scripts/prot/) scripts.
+Sourcecode can be found at https://sourceforge.net/projects/evidentialgene/. Additional documentation about the program can be found at https://arthropods.eugenes.org/EvidentialGene/. TACOCAT uses `trformat.pl` (/scripts/rnaseq/) and `tr2aacds.pl` (/scripts/prot/) scripts.
 
 **bowtie**
 
